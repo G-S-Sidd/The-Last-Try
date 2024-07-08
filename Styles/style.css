@@ -1,0 +1,15 @@
+div{
+    background-color: royalblue;
+    border:500px 500px 500px;
+    border-style: solid;
+    border-radius: 12px;
+    border-width: 8px;
+    margin: 15px;
+    padding: 12px;
+    box-shadow: 6px 7px salmon;
+}
+.hola{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
