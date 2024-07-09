@@ -19,3 +19,33 @@ div{
     border-radius: 20px;
     border-width: 8px;
 }
+/* Worked on nav */
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: 800; */
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+/* nav style  */
+nav{
+    display: flex;
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+ #None{
+    color: aqua;
+ }
+
+
+
+
+
+/* .FO{
+    border: 2px solid rosybrown;
+    background: saddlebrown;
+    padding: 10px;
+} */
