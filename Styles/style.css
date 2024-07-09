@@ -13,3 +13,9 @@ div{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: large;
 }
+#naruto{
+    border: 10px 10px;
+    border-style: double;
+    border-radius: 20px;
+    border-width: 8px;
+}
